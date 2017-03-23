@@ -1,6 +1,12 @@
+# React / Typescript Mars Rover Kata
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Description
+It uses
+* [esp-js](https://github.com/esp/esp-js)
+* [esp-js-react](https://github.com/esp/esp-js-react)
+
+## Description
 
 Develop an api that moves a rover around on a grid.
 
