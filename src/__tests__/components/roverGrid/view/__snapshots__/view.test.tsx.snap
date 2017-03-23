@@ -1,12 +1,6 @@
 exports[`test Rover Grid Cell renders correctly 1`] = `
 <td
-  style={
-    Object {
-      "background": "#cc181e",
-      "height": 30,
-      "width": 30,
-    }
-  } />
+  className="RoverGridCell" />
 `;
 
 exports[`test Rover Grid renders correctly 1`] = `
@@ -15,213 +9,63 @@ exports[`test Rover Grid renders correctly 1`] = `
     <tbody>
       <tr>
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
       </tr>
       <tr>
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
       </tr>
       <tr>
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
       </tr>
       <tr>
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
       </tr>
       <tr>
         <td
-          style={
-            Object {
-              "background": "#880000",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell RoverGridCellRover" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
         <td
-          style={
-            Object {
-              "background": "#cc181e",
-              "height": 30,
-              "width": 30,
-            }
-          } />
+          className="RoverGridCell" />
       </tr>
     </tbody>
   </table>
