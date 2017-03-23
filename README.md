@@ -17,15 +17,15 @@ Develop an api that moves a rover around on a grid.
 * Implement wrapping from one edge of the grid to another. (planets are spheres after all)
 * [Incomplete]Implement obstacle detection before each move to a new square. If a given sequence of commands encounters an obstacle, the rover moves up to the last possible point and reports the obstacle.
 
-**Run**
+###Run
 `yarn start`
 
-**Test**
+###Test
 `yarn test`
 
-**Coverage**
+###Coverage
 `yarn coverage`
 
-**Notes**
+###Notes
 * It looks like the code coverage is a bit patchy on the HTML output display of covered / uncovered areas of code.
 * Using Jest for testing - standard unit tests + trying some snapshot testing.
