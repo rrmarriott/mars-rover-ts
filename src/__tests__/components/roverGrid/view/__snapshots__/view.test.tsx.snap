@@ -1,0 +1,229 @@
+exports[`test Rover Grid Cell renders correctly 1`] = `
+<td
+  style={
+    Object {
+      "background": "#cc181e",
+      "height": 30,
+      "width": 30,
+    }
+  } />
+`;
+
+exports[`test Rover Grid renders correctly 1`] = `
+<div>
+  <table>
+    <tbody>
+      <tr>
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+      </tr>
+      <tr>
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+      </tr>
+      <tr>
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+      </tr>
+      <tr>
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+      </tr>
+      <tr>
+        <td
+          style={
+            Object {
+              "background": "#880000",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+        <td
+          style={
+            Object {
+              "background": "#cc181e",
+              "height": 30,
+              "width": 30,
+            }
+          } />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

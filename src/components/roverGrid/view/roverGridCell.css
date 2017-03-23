@@ -1,0 +1,9 @@
+.RoverGridCell {
+    background: #cc181e;
+    height: 20px;
+    width: 20px;
+}
+
+.RoverGridCellRover {
+    background: #880000;
+}

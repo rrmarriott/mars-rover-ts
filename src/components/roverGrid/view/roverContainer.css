@@ -1,0 +1,8 @@
+.RoverContainer {
+    display: flex;
+    align-items: center;
+}
+
+.RoverGame {
+    min-width: 500px;
+}
