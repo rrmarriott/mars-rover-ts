@@ -1,5 +1,7 @@
 # React / Typescript Mars Rover Kata
 
+[![Build Status](https://travis-ci.org/rrmarriott/mars-rover-ts.svg?branch=master)](https://travis-ci.org/rrmarriott/mars-rover-ts)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 It uses
