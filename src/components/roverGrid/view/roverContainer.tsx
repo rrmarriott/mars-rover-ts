@@ -3,8 +3,9 @@ import RoverGrid from './roverGrid';
 import {Command, RoverDirection} from '../model/rover';
 import RoverGridModel from '../model/roverGridModel';
 import './roverContainer.css';
+import {Router} from 'esp-js';
 
-export default class RoverContainer extends React.Component<any, any> {
+export default class RoverContainer extends React.Component<{model: RoverGridModel, router: Router}, {}> {
 
     static propTypes = {
         model: React.PropTypes.object.isRequired,

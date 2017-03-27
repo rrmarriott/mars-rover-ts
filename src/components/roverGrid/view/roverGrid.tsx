@@ -1,7 +1,9 @@
 import * as React from 'react';
 import RoverGridCell from './roverGridCell';
+import {Rover} from '../model/rover';
+import Grid from '../model/grid';
 
-export default class RoverGrid extends React.Component<any, any> {
+export default class RoverGrid extends React.Component<{rover: Rover, grid: Grid}, {}> {
 
     static PropTypes = {
         rover: React.PropTypes.object.isRequired,

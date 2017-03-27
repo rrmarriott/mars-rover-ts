@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './roverGridCell.css';
 
-export default class RoverGridCell extends React.Component<any, any> {
+export default class RoverGridCell extends React.Component<{xPos: number, x: number, yPos: number, y: number}, {}> {
 
     static PropTypes = {
         xPos: React.PropTypes.number.isRequired,
